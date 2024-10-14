@@ -1,4 +1,4 @@
 # Evidencia 06
 ## Tienda Online
-* BenjaG123
-* Fran416
+* Benjamín Garces | BenjaG123
+* Francisco Lizama | Fran416
